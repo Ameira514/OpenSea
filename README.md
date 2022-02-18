@@ -51,21 +51,22 @@ Some of the major competitors with OpenSea are Smart Valor, Syscoin, Dapp.com, a
 
 ## **Results**
 
-* What has been the business impact of this company so far?
+The business impact of OpenSea has been that it has provided the largest variety of NFTs as of today. It also allows consumers to buy, sell, and trade by using crypto.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+The core metrics of a trading platform in the crypto world like OpenSea are NFT's utility, rarity, community size, trading volume, potential, and provenance.  OpenSea is at the top of many of these metrics by being able to not only provide the most rare and largest variety of NFTs but also has one of the largest subscribing communities of 1.8 million.
 
 OpenSea is currently one of the largest NFT trading platforms with the widest selection of NFTs for purchase.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If there was an option to add users to be able to buy and sell using currency outside of crypto wallets I beleive this would bring a higher number of consumers to the platform.
 
-* Why do you think that offering this product or service would benefit the company?
+The technologies that would be needed to be added to have users be able to use funds outside of the crypto wallet would have to be secure payment methods.  There would have to be extreme security considering the high dollar of transactions and minimize theft and fraud both in purchases and sales.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
 ## References & Citations
+www.opensea.io
+www.forbes.com
+www.businessinsider.com
+www.nerdwallet.com
