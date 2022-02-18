@@ -33,7 +33,7 @@ The loophole, which has now been fixed and is being monitored, gave sellers the 
 
 With over half a million users who are now registered with OpenSea, it is an open playground to discover, trade, buy, & sell NFTs for anyone who is interested.   The site alone attracts over 120 million visitors per month and is the largest NFT marketplace as of today holding a marketshare of over 90%.
 
-OpenSea has a leg up in its industry by offering the largest variety of NFTs.  They also offer competitve commissions and some of the industries leading security in transactions. The cons of using OpenSea is that it only accepts payments in cryptocurrency and as a consumer you will need a crypto wallet to buy and sell on the platform.
+OpenSea has a leg up in its industry by offering the largest variety of NFTs with a peer-to-peer marketplace for crypto collectibles as well.  They also offer competitve commissions and some of the industries leading security in transactions. The cons of using OpenSea is that it only accepts payments in cryptocurrency and as a consumer you will need a crypto wallet to buy and sell on the platform.
 
 One of the technologies OpenSea is currently using is they allow users to own & purchase their NFT's by using Ethereum's blockchain, Coinbase Wallet, Fortmatic, and Dapper.
 
@@ -60,7 +60,7 @@ OpenSea is currently one of the largest NFT trading platforms with the widest se
 
 ## Recommendations
 
-If there was an option to add users to be able to buy and sell using currency outside of crypto wallets I beleive this would bring a higher number of consumers to the platform.
+If there was an option to add users to be able to buy and sell using currency outside of crypto wallets I believe this would bring a higher number of consumers to the platform.
 
 The technologies that would be needed to be added to have users be able to use funds outside of the crypto wallet would have to be secure payment methods.  There would have to be extreme security considering the high dollar of transactions and minimize theft and fraud both in purchases and sales.
 
